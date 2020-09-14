@@ -1,2 +1,2 @@
 # Basic-Machine-Learning
-This includes a notebook demonstrating the use of basic machine learning algorithms to deal with data containing missing values and class imbalance. Feel free to use for reference.
+This is part of the project done at PPKE, Hungary as a part of course on Data Mining and Machine Learning. This includes a notebook demonstrating the use of basic machine learning algorithms to deal with data containing missing values and class imbalance. Feel free to use for reference. The repository also includes the dataset used in the notebook.  It is an adapted version of APS failure at Scania truck dataset to include aforementioned challenges.
